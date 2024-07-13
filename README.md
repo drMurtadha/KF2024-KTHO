@@ -33,5 +33,18 @@ Berikut adalah senarai perkara-perkara yang perlu dilakukan oleh mahasiswa **seb
 | **Penglibatan Peserta** | Mahasiswa perlu merancang cara untuk melibatkan peserta, seperti melalui perbincangan interaktif, kuiz, atau aktiviti lain. |
 | **Pemantauan dan Penilaian** | Akhirnya, mahasiswa perlu merancang bagaimana mereka akan memantau dan menilai keberkesanan program, termasuk mendapatkan maklum balas dari peserta. |
 
+Berikut adalah huraian tentang tanggungjawab mahasiswa kepada penasihat program sebelum menjalankan program yang memenuhi prinsip Kepimpinan Pelajar Berasaskan Komunikasi dan Multimedia:
+
+| Tanggungjawab | Penjelasan |
+| --- | --- |
+| **Perbincangan Awal** | Mahasiswa perlu berbincang dengan penasihat program tentang idea dan konsep program mereka. Ini termasuk tujuan, sasaran, dan aktiviti yang akan dilakukan. |
+| **Pembentangan Rancangan Program** | Mahasiswa perlu membentangkan rancangan program mereka kepada penasihat untuk mendapatkan maklum balas dan nasihat. |
+| **Mendapatkan Kebenaran** | Sebelum melancarkan program, mahasiswa perlu mendapatkan kebenaran dari penasihat program. Ini termasuk kebenaran untuk menggunakan platform media sosial atau multimedia tertentu. |
+| **Pematuhan kepada Garis Panduan** | Mahasiswa perlu memastikan bahawa program mereka mematuhi semua garis panduan dan peraturan yang ditetapkan oleh universiti dan penasihat program. |
+| **Laporan Kemajuan** | Mahasiswa perlu memberi laporan kemajuan kepada penasihat program secara berkala. Ini membolehkan penasihat untuk memantau perkembangan program dan memberikan bantuan atau nasihat jika diperlukan. |
+| **Menerima dan Melaksanakan Maklum Balas** | Mahasiswa perlu menerima dan melaksanakan maklum balas dari penasihat program. Ini termasuk membuat sebarang perubahan yang diperlukan untuk memastikan program berjalan dengan lancar dan berkesan. |
+
+
+
 
 
