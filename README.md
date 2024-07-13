@@ -120,6 +120,19 @@ Seksyen ini merujuk kepada pematuhan mahasiswa terhadap semua garis panduan dan 
 
 5. **Tindakan Seterusnya**: Berdasarkan pematuhan ini, mahasiswa akan mengetahui apa langkah-langkah seterusnya yang perlu diambil. Ini mungkin termasuk membuat penyesuaian pada program, melanjutkan dengan pelaksanaan, atau mengambil tindakan pencegahan tambahan.
 
+#### Laporan Kemajuan
+
+Seksyen ini merujuk kepada tanggungjawab mahasiswa untuk memberikan laporan kemajuan kepada penasihat program secara berkala. Berikut adalah beberapa hasil yang sepatutnya dihasilkan dalam seksyen ini:
+
+1. **Laporan Kemajuan yang Terperinci**: Mahasiswa perlu menghasilkan laporan kemajuan yang terperinci yang mencakupi semua aspek program, termasuk tujuan, sasaran, aktiviti yang telah dilakukan, pencapaian, cabaran, dan langkah-langkah seterusnya.
+
+2. **Pemantauan oleh Penasihat Program**: Laporan kemajuan ini membolehkan penasihat program memantau perkembangan program dan memahami apa yang telah dicapai dan apa yang masih perlu dikerjakan.
+
+3. **Maklum Balas dan Nasihat dari Penasihat Program**: Berdasarkan laporan kemajuan, penasihat program dapat memberikan maklum balas dan nasihat yang membantu mahasiswa memperbaiki dan memperkukuhkan program mereka.
+
+4. **Pembelajaran dan Penyesuaian**: Dengan menerima maklum balas dan nasihat dari penasihat program, mahasiswa dapat belajar dari pengalaman mereka dan membuat penyesuaian yang diperlukan untuk memastikan kejayaan program.
+
+5. **Dokumentasi**: Semua laporan kemajuan dan maklum balas yang diterima harus didokumentasikan dengan baik. Dokumentasi ini akan menjadi rujukan untuk perancangan dan pelaksanaan program.
 
 
 
