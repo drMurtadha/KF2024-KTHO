@@ -81,7 +81,7 @@ Seksyen ini merujuk kepada perbincangan awal antara mahasiswa dan penasihat prog
 
 5. **Tindakan Seterusnya**: Akhir sekali, perbincangan ini harus menghasilkan senarai tindakan seterusnya. Ini termasuk apa yang perlu dilakukan oleh mahasiswa setelah perbincangan ini, seperti melakukan kajian lanjut, merancang aktiviti, atau mencari sumber.
 
-### Pembentangan Rancangan Program
+#### Pembentangan Rancangan Program
 Seksyen ini merujuk kepada proses di mana mahasiswa membentangkan rancangan program mereka kepada penasihat program. Tujuan utama adalah untuk mendapatkan maklum balas dan nasihat yang akan membantu mereka memperbaiki dan memperkukuhkan rancangan mereka. Berikut adalah beberapa hasil yang sepatutnya dihasilkan dalam seksyen ini:
 
 1. **Rancangan Program yang Terperinci**: Mahasiswa perlu menghasilkan rancangan program yang terperinci, termasuk tujuan, sasaran, aktiviti, jadual, dan sumber yang diperlukan. Rancangan ini harus disampaikan dengan jelas dan sistematik kepada penasihat program.
@@ -93,6 +93,19 @@ Seksyen ini merujuk kepada proses di mana mahasiswa membentangkan rancangan prog
 4. **Tindakan Seterusnya**: Berdasarkan maklum balas dan nasihat yang diterima, mahasiswa akan mengetahui apa langkah-langkah seterusnya yang perlu diambil. Ini mungkin termasuk merevisi rancangan, melakukan kajian lanjut, atau memulakan pelaksanaan program.
 
 5. **Dokumentasi**: Semua maklum balas dan nasihat yang diterima harus didokumentasikan dengan baik. Dokumentasi ini akan menjadi rujukan untuk perancangan dan pelaksanaan program.
+
+#### Mendapatkan Kebenaran
+Seksyen ini merujuk kepada proses mendapatkan kebenaran dari penasihat program sebelum melancarkan program. Berikut adalah beberapa hasil yang sepatutnya dihasilkan dalam seksyen ini:
+
+1. **Persetujuan Penasihat Program**: Sebelum melancarkan program, mahasiswa perlu mendapatkan persetujuan dari penasihat program. Persetujuan ini adalah penting untuk memastikan bahawa program tersebut selaras dengan garis panduan dan objektif universiti.
+
+2. **Kebenaran Menggunakan Platform Tertentu**: Jika program melibatkan penggunaan platform media sosial atau multimedia tertentu, mahasiswa perlu mendapatkan kebenaran dari penasihat program. Ini adalah penting untuk memastikan bahawa platform tersebut sesuai dan selamat untuk digunakan dalam konteks universiti.
+
+3. **Pemahaman tentang Garis Panduan dan Peraturan**: Dalam proses mendapatkan kebenaran, mahasiswa akan mendapatkan pemahaman yang lebih baik tentang garis panduan dan peraturan yang berkaitan dengan penggunaan platform media sosial atau multimedia dalam konteks universiti.
+
+4. **Dokumentasi**: Semua persetujuan dan kebenaran yang diterima harus didokumentasikan dengan baik. Dokumentasi ini akan menjadi rujukan untuk perancangan dan pelaksanaan program.
+
+5. **Tindakan Seterusnya**: Berdasarkan persetujuan dan kebenaran yang diterima, mahasiswa akan mengetahui apa langkah-langkah seterusnya yang perlu diambil. Ini mungkin termasuk memulakan pelaksanaan program atau melakukan penyesuaian terakhir pada rancangan program.
 
 
 
