@@ -44,7 +44,7 @@ Berikut adalah huraian tentang tanggungjawab mahasiswa kepada penasihat program 
 | **Laporan Kemajuan** | Mahasiswa perlu memberi laporan kemajuan kepada penasihat program secara berkala. Ini membolehkan penasihat untuk memantau perkembangan program dan memberikan bantuan atau nasihat jika diperlukan. |
 | **Menerima dan Melaksanakan Maklum Balas** | Mahasiswa perlu menerima dan melaksanakan maklum balas dari penasihat program. Ini termasuk membuat sebarang perubahan yang diperlukan untuk memastikan program berjalan dengan lancar dan berkesan. |
 
-Berikut adalah rajah aliran yang menggunakan format Mermaid untuk mewakili tanggungjawab mahasiswa kepada penasihat program:
+Berikut adalah rajah aliran mewakili tanggungjawab mahasiswa kepada penasihat program:
 
 ```mermaid
 graph TD
@@ -63,7 +63,7 @@ Dalam rajah ini:
 - `E` mewakili laporan kemajuan yang diberikan oleh mahasiswa kepada penasihat program.
 - `F` mewakili penerimaan dan pelaksanaan maklum balas dari penasihat program oleh mahasiswa.
 
-Harap diingat bahawa rajah ini adalah representasi visual dan mungkin perlu disesuaikan berdasarkan keperluan dan konteks tertentu.
+
 
 
 
