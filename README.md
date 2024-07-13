@@ -63,7 +63,7 @@ Dalam rajah ini:
 - `E` mewakili laporan kemajuan yang diberikan oleh mahasiswa kepada penasihat program.
 - `F` mewakili penerimaan dan pelaksanaan maklum balas dari penasihat program oleh mahasiswa.
 
-
+## Perbincangan Awal
 Seksyen ini merujuk kepada perbincangan awal antara mahasiswa dan penasihat program. Dalam perbincangan ini, mahasiswa perlu membincangkan idea dan konsep program mereka dengan penasihat. Berikut adalah beberapa hasil yang sepatutnya dihasilkan dalam seksyen ini:
 
 1. **Pemahaman yang Jelas tentang Program**: Mahasiswa dan penasihat program harus mempunyai pemahaman yang jelas tentang apa yang ingin dicapai oleh program tersebut. Ini termasuk memahami tujuan, sasaran, dan aktiviti yang akan dilakukan.
