@@ -37,7 +37,7 @@ Berikut adalah senarai perkara-perkara yang perlu dilakukan oleh mahasiswa **seb
 | **Penglibatan Peserta** | Mahasiswa perlu merancang cara untuk melibatkan peserta, seperti melalui perbincangan interaktif, kuiz, atau aktiviti lain. |
 | **Pemantauan dan Penilaian** | Akhirnya, mahasiswa perlu merancang bagaimana mereka akan memantau dan menilai keberkesanan program, termasuk mendapatkan maklum balas dari peserta. |
 
-### Tanggungjawab Kepada Penasihat Program
+### Tanggungjawab Kepada Penasihat Program : Sebelum Program
 Berikut adalah huraian tentang tanggungjawab mahasiswa kepada penasihat program sebelum menjalankan program yang memenuhi prinsip Kepimpinan Pelajar Berasaskan Komunikasi dan Multimedia:
 
 | Tanggungjawab | Penjelasan |
@@ -147,7 +147,19 @@ Seksyen ini merujuk kepada tanggungjawab mahasiswa untuk menerima dan melaksanak
 
 5. **Dokumentasi**: Semua maklum balas yang diterima dan perubahan yang dilakukan harus didokumentasikan dengan baik. Dokumentasi ini akan menjadi rujukan untuk perancangan dan pelaksanaan program di masa depan.
 
+### Tanggungjawab Kepada Penasihat Program : Semasa Program
+Berikut adalah huraian tentang tanggungjawab mahasiswa kepada penasihat program semasa program berlangsung yang memenuhi prinsip Kepimpinan Pelajar Berasaskan Komunikasi dan Multimedia:
 
+| Tanggungjawab | Penjelasan |
+| --- | --- |
+| **Pelaksanaan Program** | Mahasiswa perlu melaksanakan program dengan cermat dan efisien, memastikan semua aktiviti berjalan seperti yang dirancang dan sesuai dengan garis panduan dan peraturan universiti. |
+| **Komunikasi Berkala** | Mahasiswa perlu berkomunikasi secara berkala dengan penasihat program, memberikan maklum balas tentang perkembangan program dan sebarang isu atau cabaran yang mungkin timbul. |
+| **Penerimaan dan Pelaksanaan Maklum Balas** | Mahasiswa perlu menerima dan melaksanakan sebarang maklum balas atau nasihat yang diberikan oleh penasihat program untuk memperbaiki dan memperkukuhkan program. |
+| **Penyelesaian Masalah** | Jika terdapat sebarang masalah atau konflik semasa program berlangsung, mahasiswa perlu mengambil inisiatif untuk menyelesaikannya dengan cara yang beretika dan profesional. |
+| **Pemantauan dan Penilaian** | Mahasiswa perlu memantau dan menilai keberkesanan program secara berterusan, membuat penyesuaian jika perlu untuk memastikan program berjalan dengan lancar dan berkesan. |
+| **Dokumentasi** | Semua aktiviti, keputusan, dan perubahan yang dibuat semasa program berlangsung perlu didokumentasikan dengan baik. Dokumentasi ini akan menjadi rujukan untuk penilaian dan refleksi program. |
+
+Dengan mematuhi tanggungjawab ini, mahasiswa akan dapat menjalankan program mereka dengan cara yang berkesan dan beretika.
 
 
 
