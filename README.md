@@ -81,6 +81,19 @@ Seksyen ini merujuk kepada perbincangan awal antara mahasiswa dan penasihat prog
 
 5. **Tindakan Seterusnya**: Akhir sekali, perbincangan ini harus menghasilkan senarai tindakan seterusnya. Ini termasuk apa yang perlu dilakukan oleh mahasiswa setelah perbincangan ini, seperti melakukan kajian lanjut, merancang aktiviti, atau mencari sumber.
 
+### Pembentangan Rancangan Program
+Seksyen ini merujuk kepada proses di mana mahasiswa membentangkan rancangan program mereka kepada penasihat program. Tujuan utama adalah untuk mendapatkan maklum balas dan nasihat yang akan membantu mereka memperbaiki dan memperkukuhkan rancangan mereka. Berikut adalah beberapa hasil yang sepatutnya dihasilkan dalam seksyen ini:
+
+1. **Rancangan Program yang Terperinci**: Mahasiswa perlu menghasilkan rancangan program yang terperinci, termasuk tujuan, sasaran, aktiviti, jadual, dan sumber yang diperlukan. Rancangan ini harus disampaikan dengan jelas dan sistematik kepada penasihat program.
+
+2. **Maklum Balas dan Nasihat dari Penasihat Program**: Penasihat program akan memberikan maklum balas dan nasihat berdasarkan rancangan yang dibentangkan. Maklum balas ini mungkin termasuk cadangan untuk penambahbaikan, identifikasi potensi masalah, atau nasihat tentang cara terbaik untuk mencapai tujuan program.
+
+3. **Pemahaman yang Lebih Baik tentang Kekuatan dan Kelemahan Program**: Melalui proses ini, mahasiswa akan mendapatkan pemahaman yang lebih baik tentang kekuatan dan kelemahan rancangan program mereka. Ini akan membantu mereka membuat penyesuaian yang diperlukan untuk memastikan kejayaan program.
+
+4. **Tindakan Seterusnya**: Berdasarkan maklum balas dan nasihat yang diterima, mahasiswa akan mengetahui apa langkah-langkah seterusnya yang perlu diambil. Ini mungkin termasuk merevisi rancangan, melakukan kajian lanjut, atau memulakan pelaksanaan program.
+
+5. **Dokumentasi**: Semua maklum balas dan nasihat yang diterima harus didokumentasikan dengan baik. Dokumentasi ini akan menjadi rujukan untuk perancangan dan pelaksanaan program.
+
 
 
 
