@@ -107,6 +107,21 @@ Seksyen ini merujuk kepada proses mendapatkan kebenaran dari penasihat program s
 
 5. **Tindakan Seterusnya**: Berdasarkan persetujuan dan kebenaran yang diterima, mahasiswa akan mengetahui apa langkah-langkah seterusnya yang perlu diambil. Ini mungkin termasuk memulakan pelaksanaan program atau melakukan penyesuaian terakhir pada rancangan program.
 
+#### Pematuhan kepada Garis Panduan
+Seksyen ini merujuk kepada pematuhan mahasiswa terhadap semua garis panduan dan peraturan yang ditetapkan oleh universiti dan penasihat program. Berikut adalah beberapa hasil yang sepatutnya dihasilkan dalam seksyen ini:
+
+1. **Pemahaman Garis Panduan dan Peraturan**: Mahasiswa perlu memahami dan mematuhi semua garis panduan dan peraturan yang ditetapkan oleh universiti dan penasihat program. Ini termasuk garis panduan tentang etika, privasi, hak cipta, dan lain-lain.
+
+2. **Pematuhan dalam Pelaksanaan Program**: Semua aktiviti dalam program harus dilakukan dengan mematuhi garis panduan dan peraturan tersebut. Ini termasuk cara berkomunikasi, berinteraksi, dan menggunakan platform media sosial atau multimedia.
+
+3. **Pencegahan Masalah Hukum atau Etika**: Dengan mematuhi garis panduan dan peraturan, mahasiswa dapat mencegah masalah hukum atau etika yang mungkin timbul. Ini termasuk pelanggaran hak cipta, pelanggaran privasi, dan lain-lain.
+
+4. **Dokumentasi**: Semua tindakan yang diambil untuk mematuhi garis panduan dan peraturan harus didokumentasikan dengan baik. Dokumentasi ini akan menjadi bukti pematuhan dan dapat digunakan sebagai rujukan di masa depan.
+
+5. **Tindakan Seterusnya**: Berdasarkan pematuhan ini, mahasiswa akan mengetahui apa langkah-langkah seterusnya yang perlu diambil. Ini mungkin termasuk membuat penyesuaian pada program, melanjutkan dengan pelaksanaan, atau mengambil tindakan pencegahan tambahan.
+
+
+
 
 
 
