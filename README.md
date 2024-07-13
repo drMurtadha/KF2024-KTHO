@@ -21,3 +21,17 @@ Berikut adalah penjelasan lanjutan tentang **Kepimpinan Beretika Semasa Menjalan
 | **Etika dalam Reka Bentuk** | Jika program melibatkan pembuatan produk multimedia seperti video, gambar, atau laman web, pemimpin beretika perlu memastikan bahawa reka bentuk mereka tidak meniru kerja orang lain dan bahawa semua sumber yang digunakan diberi kredit yang sesuai. |
 | **Aksesibiliti** | Pemimpin beretika perlu memastikan bahawa program dan produk mereka boleh diakses oleh semua orang, termasuk orang-orang dengan keperluan khas. Ini boleh melibatkan penggunaan sarikata dalam video, memastikan laman web boleh dibaca oleh pembaca skrin, dan lain-lain. |
 
+Berikut adalah senarai perkara-perkara yang perlu dilakukan oleh mahasiswa **sebelum** menjalankan program yang memenuhi prinsip Kepimpinan Pelajar Berasaskan Komunikasi dan Multimedia:
+
+| Perkara | Penjelasan |
+| --- | --- |
+| **Rancangan Program** | Mahasiswa perlu merancang program dengan teliti, termasuk menentukan tujuan, sasaran, dan aktiviti yang akan dilakukan. |
+| **Pemilihan Platform** | Mahasiswa perlu memilih platform media sosial atau multimedia yang sesuai untuk program mereka, berdasarkan demografi dan keperluan peserta. |
+| **Pembinaan Kandungan** | Mahasiswa perlu membangun kandungan yang menarik dan relevan untuk program mereka, termasuk video, gambar, teks, dan lain-lain. |
+| **Ujian Pratonton** | Sebelum melancarkan program, mahasiswa perlu melakukan ujian pratonton untuk memastikan semua elemen berfungsi dengan baik. |
+| **Pematuhan Etika** | Mahasiswa perlu memastikan bahwa semua kandungan dan aktiviti program mematuhi prinsip-prinsip etika, termasuk hak cipta, privasi, dan aksesibiliti. |
+| **Penglibatan Peserta** | Mahasiswa perlu merancang cara untuk melibatkan peserta, seperti melalui perbincangan interaktif, kuiz, atau aktiviti lain. |
+| **Pemantauan dan Penilaian** | Akhirnya, mahasiswa perlu merancang bagaimana mereka akan memantau dan menilai keberkesanan program, termasuk mendapatkan maklum balas dari peserta. |
+
+
+
