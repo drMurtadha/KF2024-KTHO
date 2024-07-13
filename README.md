@@ -64,6 +64,18 @@ Dalam rajah ini:
 - `F` mewakili penerimaan dan pelaksanaan maklum balas dari penasihat program oleh mahasiswa.
 
 
+Seksyen ini merujuk kepada perbincangan awal antara mahasiswa dan penasihat program. Dalam perbincangan ini, mahasiswa perlu membincangkan idea dan konsep program mereka dengan penasihat. Berikut adalah beberapa hasil yang sepatutnya dihasilkan dalam seksyen ini:
+
+1. **Pemahaman yang Jelas tentang Program**: Mahasiswa dan penasihat program harus mempunyai pemahaman yang jelas tentang apa yang ingin dicapai oleh program tersebut. Ini termasuk memahami tujuan, sasaran, dan aktiviti yang akan dilakukan.
+
+2. **Rancangan Awal Program**: Berdasarkan perbincangan ini, mahasiswa harus dapat menghasilkan rancangan awal program. Rancangan ini harus mencakupi semua aspek penting program, termasuk tujuan, sasaran, aktiviti, jadual, dan sumber yang diperlukan.
+
+3. **Persetujuan Penasihat Program**: Penasihat program harus bersetuju dengan idea dan konsep program yang dibincangkan. Jika ada sebarang isu atau kekurangan, penasihat program harus memberikan maklum balas dan cadangan untuk penambahbaikan.
+
+4. **Dokumentasi**: Semua idea, konsep, dan rancangan yang dibincangkan harus didokumentasikan dengan baik. Dokumentasi ini akan menjadi rujukan untuk perancangan dan pelaksanaan program.
+
+5. **Tindakan Seterusnya**: Akhir sekali, perbincangan ini harus menghasilkan senarai tindakan seterusnya. Ini termasuk apa yang perlu dilakukan oleh mahasiswa setelah perbincangan ini, seperti melakukan kajian lanjut, merancang aktiviti, atau mencari sumber.
+
 
 
 
