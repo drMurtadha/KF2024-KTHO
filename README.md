@@ -134,6 +134,19 @@ Seksyen ini merujuk kepada tanggungjawab mahasiswa untuk memberikan laporan kema
 
 5. **Dokumentasi**: Semua laporan kemajuan dan maklum balas yang diterima harus didokumentasikan dengan baik. Dokumentasi ini akan menjadi rujukan untuk perancangan dan pelaksanaan program.
 
+#### Menerima dan Melaksanakan Maklum Balas
+Seksyen ini merujuk kepada tanggungjawab mahasiswa untuk menerima dan melaksanakan maklum balas dari penasihat program. Berikut adalah beberapa hasil yang sepatutnya dihasilkan dalam seksyen ini:
+
+1. **Penerimaan Maklum Balas**: Mahasiswa perlu menerima maklum balas dari penasihat program dengan sikap terbuka dan positif. Mereka perlu memahami bahawa maklum balas ini bertujuan untuk membantu mereka memperbaiki program dan bukan sebagai kritikan negatif.
+
+2. **Analisis Maklum Balas**: Mahasiswa perlu menganalisis maklum balas yang diterima dan memahami apa yang perlu diperbaiki atau diubah dalam program mereka.
+
+3. **Pelaksanaan Maklum Balas**: Berdasarkan analisis tersebut, mahasiswa perlu melaksanakan maklum balas dalam program mereka. Ini mungkin termasuk membuat perubahan pada rancangan, aktiviti, atau cara pelaksanaan program.
+
+4. **Pemantauan dan Penilaian**: Setelah melaksanakan maklum balas, mahasiswa perlu memantau dan menilai kesan perubahan tersebut terhadap program. Ini akan membantu mereka memahami apakah perubahan tersebut telah membantu memperbaiki program atau tidak.
+
+5. **Dokumentasi**: Semua maklum balas yang diterima dan perubahan yang dilakukan harus didokumentasikan dengan baik. Dokumentasi ini akan menjadi rujukan untuk perancangan dan pelaksanaan program di masa depan.
+
 
 
 
