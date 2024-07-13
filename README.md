@@ -159,7 +159,19 @@ Berikut adalah huraian tentang tanggungjawab mahasiswa kepada penasihat program 
 | **Pemantauan dan Penilaian** | Mahasiswa perlu memantau dan menilai keberkesanan program secara berterusan, membuat penyesuaian jika perlu untuk memastikan program berjalan dengan lancar dan berkesan. |
 | **Dokumentasi** | Semua aktiviti, keputusan, dan perubahan yang dibuat semasa program berlangsung perlu didokumentasikan dengan baik. Dokumentasi ini akan menjadi rujukan untuk penilaian dan refleksi program. |
 
-Dengan mematuhi tanggungjawab ini, mahasiswa akan dapat menjalankan program mereka dengan cara yang berkesan dan beretika.
+
+### Tanggungjawab Kepada Penasihat Program : Selepas Program Selesai
+Berikut adalah huraian tentang tanggungjawab mahasiswa kepada penasihat program selepas program selesai yang memenuhi prinsip Kepimpinan Pelajar Berasaskan Komunikasi dan Multimedia:
+
+| Tanggungjawab | Penjelasan |
+| --- | --- |
+| **Laporan Akhir** | Mahasiswa perlu menyediakan laporan akhir yang merangkumi semua aktiviti, pencapaian, dan pembelajaran dari program. Laporan ini harus diserahkan kepada penasihat program untuk penilaian dan refleksi. |
+| **Refleksi dan Penilaian** | Mahasiswa perlu melakukan refleksi dan penilaian diri tentang pengalaman mereka menjalankan program. Ini termasuk apa yang telah berjaya, apa yang boleh diperbaiki, dan apa yang telah mereka pelajari. |
+| **Menerima dan Melaksanakan Maklum Balas** | Mahasiswa perlu menerima dan melaksanakan maklum balas dari penasihat program tentang program dan prestasi mereka. Ini termasuk membuat sebarang perubahan atau penambahbaikan yang diperlukan untuk program atau aktiviti masa depan. |
+| **Penghargaaan dan Pengakuan** | Mahasiswa perlu menghargai dan mengakui sumbangan dan sokongan dari penasihat program, rakan-rakan, dan semua yang terlibat dalam program. Ini boleh dilakukan melalui ucapan terima kasih, penghargaan, atau cara lain yang sesuai. |
+| **Dokumentasi dan Arkib** | Semua dokumen, bahan, dan rekod yang berkaitan dengan program perlu diarkibkan dengan baik. Ini termasuk laporan, maklum balas, gambar, video, dan lain-lain. Dokumentasi ini akan menjadi rujukan untuk program atau aktiviti masa depan. |
+
+
 
 
 
