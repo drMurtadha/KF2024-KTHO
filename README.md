@@ -10,4 +10,4 @@ Berikut adalah penjelasan tentang **Kepimpinan Beretika** semasa menjalankan pro
 | **Keadilan** | Pemimpin beretika perlu berusaha untuk membuat keputusan yang adil dan tidak berat sebelah. Mereka perlu mempertimbangkan semua sudut pandangan dan maklumat sebelum membuat keputusan. |
 | **Perkhidmatan** | Pemimpin beretika melayani orang lain, bukan diri mereka sendiri. Mereka perlu memberi tumpuan kepada apa yang terbaik untuk kumpulan atau organisasi, bukan apa yang terbaik untuk diri mereka sendiri. |
 
-Harap diingat bahawa ini adalah panduan umum dan mungkin perlu disesuaikan bergantung pada situasi dan konteks tertentu. Kepemimpinan beretika adalah tentang membuat keputusan yang betul, bukan yang mudah.
+
