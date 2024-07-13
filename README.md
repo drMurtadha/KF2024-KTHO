@@ -1,4 +1,6 @@
 # KF2024-KTHO
+
+## Kepimpinan Beretika Semasa Menjalankan Program
 Berikut adalah penjelasan tentang **Kepimpinan Beretika** semasa menjalankan program, khususnya bagi mahasiswa Universiti Teknologi Mahasiswa:
 
 | Aspek | Penjelasan |
@@ -11,6 +13,7 @@ Berikut adalah penjelasan tentang **Kepimpinan Beretika** semasa menjalankan pro
 | **Perkhidmatan** | Pemimpin beretika melayani orang lain, bukan diri mereka sendiri. Mereka perlu memberi tumpuan kepada apa yang terbaik untuk kumpulan atau organisasi, bukan apa yang terbaik untuk diri mereka sendiri. |
 
 
+## Kepimpinan Beretika Semasa Menjalankan Program: Kepimpinan Pelajar Berasaskan Komunikasi dan Multimedia 
 Berikut adalah penjelasan lanjutan tentang **Kepimpinan Beretika Semasa Menjalankan Program: Kepimpinan Pelajar Berasaskan Komunikasi dan Multimedia**:
 
 | Aspek | Penjelasan |
@@ -21,6 +24,7 @@ Berikut adalah penjelasan lanjutan tentang **Kepimpinan Beretika Semasa Menjalan
 | **Etika dalam Reka Bentuk** | Jika program melibatkan pembuatan produk multimedia seperti video, gambar, atau laman web, pemimpin beretika perlu memastikan bahawa reka bentuk mereka tidak meniru kerja orang lain dan bahawa semua sumber yang digunakan diberi kredit yang sesuai. |
 | **Aksesibiliti** | Pemimpin beretika perlu memastikan bahawa program dan produk mereka boleh diakses oleh semua orang, termasuk orang-orang dengan keperluan khas. Ini boleh melibatkan penggunaan sarikata dalam video, memastikan laman web boleh dibaca oleh pembaca skrin, dan lain-lain. |
 
+### Sebelum Menjalankan Program
 Berikut adalah senarai perkara-perkara yang perlu dilakukan oleh mahasiswa **sebelum** menjalankan program yang memenuhi prinsip Kepimpinan Pelajar Berasaskan Komunikasi dan Multimedia:
 
 | Perkara | Penjelasan |
@@ -33,6 +37,7 @@ Berikut adalah senarai perkara-perkara yang perlu dilakukan oleh mahasiswa **seb
 | **Penglibatan Peserta** | Mahasiswa perlu merancang cara untuk melibatkan peserta, seperti melalui perbincangan interaktif, kuiz, atau aktiviti lain. |
 | **Pemantauan dan Penilaian** | Akhirnya, mahasiswa perlu merancang bagaimana mereka akan memantau dan menilai keberkesanan program, termasuk mendapatkan maklum balas dari peserta. |
 
+### Tanggungjawab Kepada Penasihat Program
 Berikut adalah huraian tentang tanggungjawab mahasiswa kepada penasihat program sebelum menjalankan program yang memenuhi prinsip Kepimpinan Pelajar Berasaskan Komunikasi dan Multimedia:
 
 | Tanggungjawab | Penjelasan |
@@ -63,7 +68,7 @@ Dalam rajah ini:
 - `E` mewakili laporan kemajuan yang diberikan oleh mahasiswa kepada penasihat program.
 - `F` mewakili penerimaan dan pelaksanaan maklum balas dari penasihat program oleh mahasiswa.
 
-## Perbincangan Awal
+#### Perbincangan Awal
 Seksyen ini merujuk kepada perbincangan awal antara mahasiswa dan penasihat program. Dalam perbincangan ini, mahasiswa perlu membincangkan idea dan konsep program mereka dengan penasihat. Berikut adalah beberapa hasil yang sepatutnya dihasilkan dalam seksyen ini:
 
 1. **Pemahaman yang Jelas tentang Program**: Mahasiswa dan penasihat program harus mempunyai pemahaman yang jelas tentang apa yang ingin dicapai oleh program tersebut. Ini termasuk memahami tujuan, sasaran, dan aktiviti yang akan dilakukan.
